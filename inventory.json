@@ -1,0 +1,6 @@
+{
+  "laptop": {"price": 999.99, "stock": 5},
+  "headphones": {"price": 199.99, "stock": 10},
+  "keyboard": {"price": 79.99, "stock": 8},
+  "mouse": {"price": 49.99, "stock": 12}
+}
